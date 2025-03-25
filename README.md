@@ -39,7 +39,7 @@ Este repositório contém um projeto de análise estatística da inflação em c
 - Conclusão sobre a comparação das inflações.
 
 ## 📽 Apresentação
-Acesse a apresentação do projeto no Canva: [Apresentação do Projeto](https://www.canva.com/design/DAGh59UJEn0/1pv6qdt8LfPfCmu9dBAE7Q/view?utm_content=DAGh59UJEn0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6a047a641d)
+Acesse a apresentação do projeto no Canva: [Apresentação do Projeto]([https://www.canva.com/design/DAGh59UJEn0/1pv6qdt8LfPfCmu9dBAE7Q/view?utm_content=DAGh59UJEn0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6a047a641d](https://www.canva.com/design/DAGh59UJEn0/1pv6qdt8LfPfCmu9dBAE7Q/view?utm_content=DAGh59UJEn0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6a047a641d))
 
 ## 📜 Licença
 Este projeto é de uso educacional e pode ser compartilhado livremente.
