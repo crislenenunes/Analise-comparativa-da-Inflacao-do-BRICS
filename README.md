@@ -1,4 +1,4 @@
-# 📊 Análise Estatística da Inflação em 5 Países
+# 📊 Análise Estatística da Inflação do BRICS
 
 ## 🔍 Sobre o Projeto
 Este repositório contém um projeto de análise estatística da inflação em cinco países, utilizando Python e bibliotecas como Pandas, NumPy e SciPy. O objetivo é comparar as taxas de inflação ao longo de 36 meses e realizar testes estatísticos para identificar diferenças significativas entre as médias de cada país.
@@ -22,14 +22,15 @@ Este repositório contém um projeto de análise estatística da inflação em c
 ## 🚀 Como executar o projeto
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/crislenenunes/Analise-comparativa-da-Inflacao-do-BRICS](https://github.com/crislenenunes/Analise-comparativa-da-Inflacao-do-BRICS) Clonar este repositório:  
-
+   git clone https://github.com/crislenenunes/Analise-comparativa-da-Inflacao-do-BRICS
    ```
+
 2. Instale as dependências necessárias (caso esteja rodando localmente):
    ```bash
    pip install pandas numpy scipy
    ```
-3. Execute o código em um notebook Jupyter ou Google Colab.
+
+3. Execute o código em um notebook Jupyter ou Google Colab:
    [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mhZz3LxNaVCQa4LUVKgDXMDnIzER7LWB#revisionId=0BzKCFEzv2pmvZTBQUjIyTUZXeWI0dkZwWHNUMnFGc2kwc0NnPQ&scrollTo=UHfGVPhvMMlH)
 
 ## 📊 Resultados esperados
@@ -37,6 +38,11 @@ Este repositório contém um projeto de análise estatística da inflação em c
 - Testes t indicando se há diferenças estatisticamente significativas.
 - Conclusão sobre a comparação das inflações.
 
+## 📽 Apresentação
+Acesse a apresentação do projeto no Canva: [Apresentação do Projeto](https://www.canva.com/design/DAGh59UJEn0/1pv6qdt8LfPfCmu9dBAE7Q/view?utm_content=DAGh59UJEn0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6a047a641d)
+
 ## 📜 Licença
 Este projeto é de uso educacional e pode ser compartilhado livremente.
+
+
 Feito com ❤️ durante o Bootcamp de IA LLM da SoulCode.
