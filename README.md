@@ -39,7 +39,4 @@ Este repositório contém um projeto de análise estatística da inflação em c
 
 ## 📜 Licença
 Este projeto é de uso educacional e pode ser compartilhado livremente.
-
----
-
 Feito com ❤️ durante o Bootcamp de IA LLM da SoulCode.
