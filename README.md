@@ -22,13 +22,15 @@ Este repositório contém um projeto de análise estatística da inflação em c
 ## 🚀 Como executar o projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone [https://github.com/crislenenunes/Analise-comparativa-da-Inflacao-do-BRICS](https://github.com/crislenenunes/Analise-comparativa-da-Inflacao-do-BRICS) Clonar este repositório:  
+
    ```
 2. Instale as dependências necessárias (caso esteja rodando localmente):
    ```bash
    pip install pandas numpy scipy
    ```
 3. Execute o código em um notebook Jupyter ou Google Colab.
+   [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mhZz3LxNaVCQa4LUVKgDXMDnIzER7LWB#revisionId=0BzKCFEzv2pmvZTBQUjIyTUZXeWI0dkZwWHNUMnFGc2kwc0NnPQ&scrollTo=UHfGVPhvMMlH)
 
 ## 📊 Resultados esperados
 - Uma tabela com as diferenças entre as médias de inflação dos países.
